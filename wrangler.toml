@@ -1,0 +1,8 @@
+name = "daedae"
+compatibility_date = "2025-12-05"
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "daedae-db"
+database_id = "local"
